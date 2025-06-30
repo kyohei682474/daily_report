@@ -4,6 +4,7 @@
 * 自動テストを書く(Ruby)
 ## わかったこと 
 * private_class_methodはクラスメソッド。
+* .new_record?はActiveRecord オブジェクトがデータベースにまだ保存されていないかどうかを判定するメソッド
 
 
 ## 感じたこと
